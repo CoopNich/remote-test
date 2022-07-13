@@ -29,7 +29,7 @@ function App() {
     <div>
       <div className='expenses'>
         <Expenses
-        expenses={expenses}
+        items={expenses}
         ></Expenses>
       </div>
     </div>
